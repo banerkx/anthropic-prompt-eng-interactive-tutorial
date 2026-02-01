@@ -1,3 +1,17 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**anthropic-prompt-eng-interactive-tutorial/README.md Table Of Contents**
+
+- [Welcome to Anthropic's Prompt Engineering Interactive Tutorial](#welcome-to-anthropics-prompt-engineering-interactive-tutorial)
+  - [Course introduction and goals](#course-introduction-and-goals)
+  - [Course structure and content](#course-structure-and-content)
+  - [Table of Contents](#table-of-contents)
+    - [Beginner](#beginner)
+    - [Intermediate](#intermediate)
+    - [Advanced](#advanced)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Welcome to Anthropic's Prompt Engineering Interactive Tutorial
 
 ## Course introduction and goals
@@ -5,14 +19,15 @@
 This course is intended to provide you with a comprehensive step-by-step understanding of how to engineer optimal prompts within Claude.
 
 **After completing this course, you will be able to**:
-- Master the basic structure of a good prompt 
+
+- Master the basic structure of a good prompt
 - Recognize common failure modes and learn the '80/20' techniques to address them
 - Understand Claude's strengths and weaknesses
 - Build strong prompts from scratch for common use cases
 
 ## Course structure and content
 
-This course is structured to allow you many chances to practice writing and troubleshooting prompts yourself. The course is broken up into **9 chapters with accompanying exercises**, as well as an appendix of even more advanced methods. It is intended for you to **work through the course in chapter order**. 
+This course is structured to allow you many chances to practice writing and troubleshooting prompts yourself. The course is broken up into **9 chapters with accompanying exercises**, as well as an appendix of even more advanced methods. It is intended for you to **work through the course in chapter order**.
 
 **Each lesson has an "Example Playground" area** at the bottom where you are free to experiment with the examples in the lesson and see for yourself how changing prompts can change Claude's responses. There is also an [answer key](https://docs.google.com/spreadsheets/d/1jIxjzUWG-6xBVIa2ay6yDpLyeuOh_hR_ZB75a47KX_E/edit?usp=sharing).
 
@@ -27,13 +42,15 @@ When you are ready to begin, go to `01_Basic Prompt Structure` to proceed.
 Each chapter consists of a lesson and a set of exercises.
 
 ### Beginner
+
 - **Chapter 1:** Basic Prompt Structure
 
-- **Chapter 2:** Being Clear and Direct  
+- **Chapter 2:** Being Clear and Direct
 
 - **Chapter 3:** Assigning Roles
 
-### Intermediate 
+### Intermediate
+
 - **Chapter 4:** Separating Data from Instructions
 
 - **Chapter 5:** Formatting Output & Speaking for Claude
@@ -43,9 +60,11 @@ Each chapter consists of a lesson and a set of exercises.
 - **Chapter 7:** Using Examples
 
 ### Advanced
+
 - **Chapter 8:** Avoiding Hallucinations
 
 - **Chapter 9:** Building Complex Prompts (Industry Use Cases)
+
   - Complex Prompts from Scratch - Chatbot
   - Complex Prompts for Legal Services
   - **Exercise:** Complex Prompts for Financial Services
@@ -53,6 +72,7 @@ Each chapter consists of a lesson and a set of exercises.
   - Congratulations & Next Steps
 
 - **Appendix:** Beyond Standard Prompting
+
   - Chaining Prompts
   - Tool Use
   - Search & Retrieval
